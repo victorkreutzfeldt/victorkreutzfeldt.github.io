@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Victor Croisfelt, PhD"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Victor Croisfelt"
+description              : &description "Victor Croisfelt's webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://victorkreutzfeldt.github.io  # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                                 # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Victor Croisfelt"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Scientist on AI & Wireless Comms"
   location         : "Aalborg, Denmark"
-  employer         : "Connectivity Section, Aalborg University"
-  uri              : # URL
+  employer         : "Aalborg University"
+  uri              : "https://vbn.aau.dk/en/persons/vcr/"
   email            : "vcr@es.aau.dk" 
 
   # Academic websites
