@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Victor Croisfelt, PhD"
 title_separator          : "-"
 name                     : &name "Victor Croisfelt"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Victor Croisfelt"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist on AI & Wireless Comms"
+  bio              : "Research Scientist on Artificial Intelligence & Wireless Communications"
   location         : "Aalborg, Denmark"
   employer         : "Aalborg University"
   uri              : "https://vbn.aau.dk/en/persons/vcr/"
